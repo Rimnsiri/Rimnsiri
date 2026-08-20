@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FC6D26&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nsiri+Rim+%F0%9F%91%8B;Fullstack+Web+Developer;PHP+%2B+Laravel+%E2%9D%A4%EF%B8%8F+React+%2B+Vue;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FC6D26&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Nsiri+Rim+%F0%9F%91%8B;Fullstack+Web+Developer;PHP+%2B+Laravel+%E2%9D%A4%EF%B8%8F+React+%2B+Vue;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 </div>
 
@@ -50,11 +50,15 @@ const nsiriRim = {
 
 <div align="center">
 
-![Rimnsiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rimnsiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Rimnsiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimnsiri&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimnsiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" height="180"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rimnsiri&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Rimnsiri&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -62,17 +66,23 @@ const nsiriRim = {
 
 ## 📈 Activity Graph
 
-[![Rimnsiri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimnsiri&theme=tokyo-night&hide_border=true)](https://github.com/Rimnsiri)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rimnsiri&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Rimnsiri)
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rimnsiri/Rimnsiri/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rimnsiri/Rimnsiri/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://raw.githubusercontent.com/Rimnsiri/Rimnsiri/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 ---
 
@@ -80,6 +90,6 @@ const nsiriRim = {
 
 *"D'abord, résous le problème. Ensuite, écris le code."* — John Johnson
 
-![Profile views](https://komarev.com/ghpvc/?username=Rimnsiri&color=FC6D26&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Rimnsiri&color=FC6D26&style=flat-square&label=Profile+Views)
 
 </div>
