@@ -50,15 +50,24 @@ const nsiriRim = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rimnsiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimnsiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" height="180"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rimnsiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rimnsiri&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Rimnsiri&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Rimnsiri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophées
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rimnsiri&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Rimnsiri)
 
 </div>
 
